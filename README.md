@@ -7,10 +7,10 @@ I have done this exercice during my studies at WebForce3 in the JavaScript lesso
 Some screenshots :
 
 
-![Result screenshot](images/screenshot_plusoumoins1.png)
+![Result screenshot](screenshots/screenshot_plusoumoins1.png)
 
 
-![Result screenshot](images/screenshot_plusoumoins2.png)
+![Result screenshot](screenshots/screenshot_plusoumoins2.png)
 
 
-![Result screenshot](images/screenshot_plusoumoins3.png)
+![Result screenshot](screenshots/screenshot_plusoumoins3.png)
